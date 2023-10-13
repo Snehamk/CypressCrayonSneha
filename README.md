@@ -10,10 +10,10 @@ You want to be able to submit the event registration form with required details.
 
 ## IMPLEMENTATION SUMMARY
 
-Programming Language used - JavaScript
-Automation Framework used - Cypress
-BDD framework used - Cucumber
-Browser tested - Google Chrome 
+ - Programming Language used - JavaScript
+ - Automation Framework used - Cypress
+ - BDD framework used - Cucumber
+ - Browser tested - Google Chrome 
 
 ## STEPS TO RUN
 
