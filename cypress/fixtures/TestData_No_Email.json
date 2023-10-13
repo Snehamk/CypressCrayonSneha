@@ -1,0 +1,14 @@
+{
+    "testcase6": {
+      "name": "TestUser",
+      "dob": "1994-04-08",
+      "email": "",
+      "organization": "Test",
+      "attendDays": "Monday",
+      "availableFromHours": "16",
+        "availableFromMinutes": "00",
+        "availableToHours": "19",
+        "availableToMinutes": "00",
+      "dietOption": "Vegetarian"
+    }
+  }
