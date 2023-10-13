@@ -8,6 +8,13 @@ As a user,
 In order to register for an event, 
 You want to be able to submit the event registration form with required details.
 
+## IMPLEMENTATION SUMMARY
+
+Programming Language used - JavaScript
+Automation Framework used - Cypress
+BDD framework used - Cucumber
+Browser tested - Google Chrome
+
 ## STEPS TO RUN
 
 - Clone the repo and navigate to the folder.
